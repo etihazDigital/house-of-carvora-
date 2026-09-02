@@ -1,0 +1,120 @@
+============================================================
+ HOUSE OF CRAVORA — IMAGE LIST
+ Save every image below into THIS "assets" folder using the
+ EXACT file name shown. Same name = image appears on the site
+ automatically. No need to touch any HTML/CSS file.
+============================================================
+
+Formats: use .jpg for photos, .png only where noted (logo/favicon).
+If you save a photo as .png or .jpeg instead of .jpg, just rename
+the file extension to .jpg (or tell me and I'll update the code).
+
+Until you paste an image, that spot shows a soft pastel color
+block instead of a broken image — so the site still looks clean
+if you upload it before all photos are ready.
+
+------------------------------------------------------------
+BRAND (used on every page — header & footer)
+------------------------------------------------------------
+logo.png            512x512px, transparent PNG. Your circular
+                     "House of Cravora" logo (the one on your
+                     Instagram profile works great).
+favicon.png          64x64px (or 32x32px), transparent PNG.
+                     Small icon shown in the browser tab.
+
+------------------------------------------------------------
+HOME PAGE (index.html)
+------------------------------------------------------------
+hero-bg.jpg            1920x1200px (landscape), the LARGEST,
+                     most eye-catching photo on the site. This
+                     fills the entire hero background behind
+                     your headline — a wide, atmospheric shot
+                     (bomboloni being loaded, the stall glowing
+                     at night, a hero close-up with room around
+                     it). A soft dark tint is applied over it
+                     automatically so the white text stays
+                     readable, so avoid a photo that's already
+                     very dark or very busy in the center.
+hero-product.jpg      1200x1200px. A second, crisp close-up
+                     shot (a loaded bomboloni or cookie) that
+                     sits in the small rotated card in front of
+                     the background photo.
+feature-bomboloni.jpg 1200x750px. Wide shot of bomboloni (for
+                     the "Our Signatures" section).
+feature-cookies.jpg   1200x750px. Wide shot of cookies (for
+                     the "Our Signatures" section).
+insta-01.jpg          600x600px  }
+insta-02.jpg          600x600px  }  Six square photos for the
+insta-03.jpg          600x600px  }  "Follow @houseofcravora"
+insta-04.jpg          600x600px  }  grid. Pick your 6 best/most
+insta-05.jpg          600x600px  }  recent Instagram posts.
+insta-06.jpg          600x600px  }
+
+------------------------------------------------------------
+ABOUT PAGE (about.html)
+------------------------------------------------------------
+about-stall.jpg        1000x1250px (portrait). A photo of the
+                     stall/setup at night.
+about-detail.jpg       800x800px (square). A close-up detail
+                     shot — hands loading a bomboloni, the
+                     stove, toppings, etc. (overlaps the photo
+                     above on desktop).
+
+------------------------------------------------------------
+MENU PAGE (menu.html)
+------------------------------------------------------------
+Bomboloni:
+menu-bomboloni-classic.jpg      700x700px — Classic Sugar Bomboloni
+menu-bomboloni-nutella.jpg      700x700px — Nutella Loaded
+menu-bomboloni-biscoff.jpg      700x700px — Biscoff Crunch
+menu-bomboloni-strawberry.jpg   700x700px — Strawberry Cream
+menu-bomboloni-chocolava.jpg    700x700px — Choco Lava
+
+Cookies:
+menu-cookie-chocochunk.jpg      700x700px — Classic Choco Chunk
+menu-cookie-biscoff.jpg         700x700px — Biscoff Stuffed
+menu-cookie-redvelvet.jpg       700x700px — Red Velvet Loaded
+menu-cookie-oreo.jpg            700x700px — Oreo Overload
+
+NOTE: The item names above are SAMPLE flavours. If your real
+menu has different names, either rename these files to match
+your new item names (and update menu.html to match), or just
+keep these file names and swap in photos of whatever you're
+actually selling — the name on the card is separate text you
+can edit any time (see README.txt).
+
+------------------------------------------------------------
+GALLERY PAGE (gallery.html)
+------------------------------------------------------------
+gallery-01.jpg to gallery-12.jpg   800x800px each (12 photos
+                     total). A mix of bomboloni shots, cookie
+                     shots, behind-the-scenes/stall shots, and
+                     customer photos (only use customer photos
+                     you have permission to post).
+
+Suggested mix:
+  gallery-01, 02, 07      -> bomboloni shots
+  gallery-03, 04, 08      -> cookie shots
+  gallery-05, 06, 11      -> behind-the-scenes / stall shots
+  gallery-09, 10          -> customer / crowd shots
+  gallery-12              -> bomboloni shot
+
+(These map to the filter buttons on the Gallery page. If you
+swap categories around, just tell me and I'll re-tag them.)
+
+------------------------------------------------------------
+TOTAL IMAGES NEEDED: 35
+------------------------------------------------------------
+2  brand (logo, favicon)
+2  hero (background photo + product card)
+2  signature product shots
+6  instagram grid
+2  about page
+9  menu items
+12 gallery grid
+
+PRIORITY TIP: if you only add ONE photo right now, make it
+hero-bg.jpg — it's the very first thing every visitor sees.
+
+Tip: export/compress photos before uploading (e.g. squoosh.app)
+so the site stays fast — aim for under 300KB per photo.
